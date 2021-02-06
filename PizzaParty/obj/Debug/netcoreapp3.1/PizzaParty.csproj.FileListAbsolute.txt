@@ -1,0 +1,13 @@
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\bin\Debug\netcoreapp3.1\PizzaParty.exe
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\bin\Debug\netcoreapp3.1\PizzaParty.deps.json
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\bin\Debug\netcoreapp3.1\PizzaParty.runtimeconfig.json
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\bin\Debug\netcoreapp3.1\PizzaParty.runtimeconfig.dev.json
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\bin\Debug\netcoreapp3.1\PizzaParty.dll
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\bin\Debug\netcoreapp3.1\PizzaParty.pdb
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\obj\Debug\netcoreapp3.1\PizzaParty.csprojAssemblyReference.cache
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\obj\Debug\netcoreapp3.1\PizzaParty.AssemblyInfoInputs.cache
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\obj\Debug\netcoreapp3.1\PizzaParty.AssemblyInfo.cs
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\obj\Debug\netcoreapp3.1\PizzaParty.csproj.CoreCompileInputs.cache
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\obj\Debug\netcoreapp3.1\PizzaParty.dll
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\obj\Debug\netcoreapp3.1\PizzaParty.pdb
+C:\Users\Business\source\repos\PizzaParty\PizzaParty\obj\Debug\netcoreapp3.1\PizzaParty.genruntimeconfig.cache
